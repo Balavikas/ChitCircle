@@ -1,0 +1,37 @@
+@import "bootstrap";
+
+body {
+  background-color: #3a6ea5 
+}
+
+.btn-color{
+  background-color: #0e1c36;
+  color: #fff;
+  
+}
+
+.title {
+  background-color: #ebf2fa;
+  color: #3a6ea5;
+}
+
+.profile-image-pic {
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+}
+
+.logo-image-pic {
+  height: 300px;
+  width: 230px;
+  object-fit: cover;
+  align-items: center;
+}
+
+.cardbody-color{
+  background-color: #ebf2fa;
+}
+
+a{
+  text-decoration: none;
+}
